@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.lazy.tcc.dubbo.springboot.autoconfig.LazyTccDubboAutoConfiguration
+org.springframework.boot.diagnostics.FailureAnalyzer=\
+  com.lazy.tcc.dubbo.springboot.autoconfig.LazyTccDubboAutoFailureAnalyzer
