@@ -39,4 +39,8 @@ mvn clean install
 
 ```
 
+## 关注我
+
+![微信公众号](https://github.com/lazy-share/generate-db-dict/blob/master/images/weixin.jpg)
+
 
